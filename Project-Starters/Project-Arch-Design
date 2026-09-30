@@ -1,0 +1,190 @@
+### Op212
+
+## Project Architecture and Repo Design
+flowchart TD
+
+    %% =========================
+    %% USER / FRONT END
+    %% =========================
+    U[User / Operator]
+    FE[Streamlit Front End<br/>app/streamlit_app.py]
+
+    U --> FE
+
+    %% =========================
+    %% ORCHESTRATION
+    %% =========================
+    ORCH[Workflow Orchestrator<br/>orchestrator/workflow.py]
+
+    FE --> ORCH
+
+    %% =========================
+    %% AGENT 1
+    %% =========================
+    LOGS[Raw Log Files<br/>data/logs/]
+    A1[Agent 1 - Log Analyst<br/>agents/log_analyst.py]
+    P1[System Prompt<br/>prompts/log_analyst_prompt.txt]
+    S1[Incident Schema<br/>schemas/incident_schema.py]
+
+    LOGS --> A1
+    P1 --> A1
+    ORCH --> A1
+    A1 --> S1
+
+    %% =========================
+    %% AGENT 2
+    %% =========================
+    A2[Agent 2 - Runbook Investigator<br/>agents/runbook_investigator.py]
+    P2[System Prompt<br/>prompts/runbook_investigator_prompt.txt]
+    KB[Bedrock Knowledge Base]
+    DOCS[Runbooks / Known Issues / Architecture Docs<br/>knowledge/]
+    RET[KB Retriever<br/>utils/kb_retriever.py]
+    S2[Recommendation Schema<br/>schemas/recommendation_schema.py]
+
+    S1 --> A2
+    P2 --> A2
+    DOCS --> KB
+    KB --> RET
+    RET --> A2
+    A2 --> S2
+
+    %% =========================
+    %% AGENT 3
+    %% =========================
+    A3[Agent 3 - Response Coordinator<br/>agents/response_coordinator.py]
+    P3[System Prompt<br/>prompts/response_coordinator_prompt.txt]
+    S3[Decision Schema<br/>schemas/decision_schema.py]
+
+    S1 --> A3
+    S2 --> A3
+    P3 --> A3
+    A3 --> S3
+
+    %% =========================
+    %% ACTION / TOOL
+    %% =========================
+    LC[Lambda Client<br/>utils/lambda_client.py]
+    ACTION[Create Incident Action<br/>actions/create_incident.py]
+    LAMBDA[AWS Lambda]
+    RESULT[Incident Record / Response]
+
+    S3 --> LC
+    LC --> LAMBDA
+    LAMBDA --> ACTION
+    ACTION --> RESULT
+    RESULT --> ORCH
+    ORCH --> FE
+
+    %% =========================
+    %% BEDROCK
+    %% =========================
+    BEDROCK[AWS Bedrock]
+
+    A1 --> BEDROCK
+    A2 --> BEDROCK
+    A3 --> BEDROCK
+
+    %% =========================
+    %% INFRASTRUCTURE
+    %% =========================
+    TF[Terraform<br/>terraform/]
+    S3AWS[S3]
+    IAM[IAM]
+    CW[CloudWatch]
+
+    TF --> S3AWS
+    TF --> IAM
+    TF --> LAMBDA
+    TF --> KB
+    TF --> CW
+
+    %% =========================
+    %% CI/CD
+    %% =========================
+    GH[GitHub Repository]
+    GHA[GitHub Actions<br/>.github/workflows/]
+    TEST[pytest]
+    DOCKER[Docker Build<br/>Dockerfile]
+    GHCR[GitHub Container Registry]
+    RUN[Docker Runtime]
+
+    GH --> GHA
+    GHA --> TEST
+    GHA --> DOCKER
+    DOCKER --> GHCR
+    GHCR --> RUN
+    RUN --> FE
+
+## Repo Structure
+```
+project-root/
+│
+├── app/
+│   └── streamlit_app.py
+│
+├── orchestrator/
+│   └── workflow.py
+│
+├── agents/
+│   ├── log_analyst.py
+│   ├── runbook_investigator.py
+│   └── response_coordinator.py
+│
+├── prompts/
+│   ├── log_analyst_prompt.txt
+│   ├── runbook_investigator_prompt.txt
+│   └── response_coordinator_prompt.txt
+│
+├── schemas/
+│   ├── incident_schema.py
+│   ├── recommendation_schema.py
+│   └── decision_schema.py
+│
+├── actions/
+│   └── create_incident.py
+│
+├── utils/
+│   ├── log_loader.py
+│   ├── kb_retriever.py
+│   └── lambda_client.py
+│
+├── data/
+│   └── logs/
+│       ├── normal.log
+│       ├── memory_failure.log
+│       └── noisy_incident.log
+│
+├── knowledge/
+│   ├── runbook_memory_v1.md
+│   ├── runbook_memory_v2.md
+│   ├── network_runbook.md
+│   ├── known_issues.md
+│   └── architecture_overview.md
+│
+├── tests/
+│   ├── test_log_analyst.py
+│   ├── test_runbook_investigator.py
+│   ├── test_response_coordinator.py
+│   ├── test_kb_retrieval.py
+│   └── test_create_incident.py
+│
+├── terraform/
+│   ├── main.tf
+│   ├── iam.tf
+│   ├── lambda.tf
+│   ├── bedrock.tf
+│   ├── s3.tf
+│   ├── variables.tf
+│   └── outputs.tf
+│
+├── .github/
+│   └── workflows/
+│       ├── test.yml
+│       └── build-image.yml
+│
+├── Dockerfile
+├── .dockerignore
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
