@@ -1,0 +1,5 @@
+# Lambda runtime needs NO extra packages (boto3 ships with the python3.12 runtime).
+# These are for local tests and scripts only.
+boto3==1.40.0
+moto[dynamodb]==5.1.10
+pytest==8.4.1

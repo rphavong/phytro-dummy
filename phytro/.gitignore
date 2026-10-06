@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Terraform
+infra/.terraform/
+infra/build/
+infra/*.tfstate*
+infra/backend.hcl
+infra/terraform.tfvars
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/public/config.json
+.DS_Store
+.env
+catalog-backup.json

@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches-ignore: [main] # main is covered by deploy.yml, which runs these same checks first
+  workflow_call:
+
+defaults:
+  run:
+    working-directory: phytro # app lives in a subfolder of the repo
+
+jobs:
+  backend-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: phytro/backend/requirements-dev.txt
+      - run: pip install -r backend/requirements-dev.txt
+      - name: Unit tests (3-agent pipeline, API privacy, scoring, retrieval)
+        run: cd backend && python -m pytest -v
+
+  terraform-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: "1.15.8" # match the version used locally
+      - run: terraform -chdir=infra fmt -check -recursive
+      - run: terraform -chdir=infra init -backend=false
+      - run: terraform -chdir=infra validate
+
+  frontend-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: phytro/frontend/package-lock.json
+      - run: cd frontend && npm ci && npm run build

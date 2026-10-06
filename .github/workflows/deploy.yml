@@ -1,0 +1,87 @@
+name: Deploy
+
+# Every push to main: test -> terraform apply -> build & publish the web app -> smoke test.
+on:
+  push:
+    branches: [main]
+    paths: ["phytro/**", ".github/workflows/**", "!**.md"] # (GitHub disallows paths + paths-ignore together)
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-main
+  cancel-in-progress: false # never cancel a running terraform apply
+
+permissions:
+  contents: read
+
+env:
+  AWS_REGION: us-east-1
+  TF_IN_AUTOMATION: "true"
+
+defaults:
+  run:
+    working-directory: phytro # app lives in a subfolder of the repo
+
+jobs:
+  checks:
+    uses: ./.github/workflows/ci.yml
+
+  deploy:
+    needs: checks
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild regulatory index from committed raw documents
+        run: |
+          if ls knowledge/raw/*.txt >/dev/null 2>&1; then python knowledge/build_index.py; else echo "no raw docs committed - using existing index"; fi
+
+      - uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: "1.15.8" # match the version used locally
+          terraform_wrapper: false
+
+      - name: Terraform apply
+        working-directory: phytro/infra
+        run: |
+          terraform init -input=false \
+            -backend-config="bucket=${{ secrets.TF_STATE_BUCKET }}" \
+            -backend-config="key=phytro/terraform.tfstate" \
+            -backend-config="region=${AWS_REGION}" \
+            -backend-config="use_lockfile=true" -backend-config="encrypt=true"
+          terraform apply -input=false -auto-approve -var="owner=${{ vars.OWNER || 'robby' }}"
+          echo "WEB_BUCKET=$(terraform output -raw web_bucket)" >> "$GITHUB_ENV"
+          echo "CF_ID=$(terraform output -raw cloudfront_id)" >> "$GITHUB_ENV"
+          echo "API_URL=$(terraform output -raw api_url)" >> "$GITHUB_ENV"
+          echo "APP_URL=$(terraform output -raw app_url)" >> "$GITHUB_ENV"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: phytro/frontend/package-lock.json
+
+      - name: Build and publish web app
+        run: |
+          cd frontend && npm ci && npm run build
+          # config.json is written by Terraform - don't delete it
+          aws s3 sync dist "s3://${WEB_BUCKET}" --delete --exclude config.json
+          aws cloudfront create-invalidation --distribution-id "$CF_ID" --paths "/*" >/dev/null
+
+      - name: Smoke test
+        run: |
+          curl -fsS "${API_URL}/health" | grep -q '"ok": true'
+          code=$(curl -s -o /dev/null -w '%{http_code}' "${API_URL}/profile")
+          test "$code" = "401" # private routes must reject anonymous calls
+          echo "### 🚀 Deployed: ${APP_URL}" >> "$GITHUB_STEP_SUMMARY"

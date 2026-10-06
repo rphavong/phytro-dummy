@@ -1,0 +1,6 @@
+# Copy to backend.hcl (git-ignored) after running scripts/bootstrap_state.sh
+bucket       = "phytro-robby-tfstate-CHANGEME"
+key          = "phytro/terraform.tfstate"
+region       = "us-east-1"
+use_lockfile = true
+encrypt      = true

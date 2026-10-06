@@ -1,0 +1,97 @@
+[
+  {
+    "id": "oehha-coffee-fsor-2019",
+    "title": "OEHHA Final Statement of Reasons - Section 25704: Exposures to Listed Chemicals in Coffee Posing No Significant Risk",
+    "authority": "California OEHHA (Proposition 65)",
+    "date": "2019-06",
+    "status": "current - adopted regulation (supersedes the 2018 proposal)",
+    "kind": "pdf",
+    "url": "https://oehha.ca.gov/sites/default/files/media/downloads/crnr/fsorcoffee060719.pdf",
+    "why": "DENSE document (many pages of legal/scientific text, headers, footers). Final rule: coffee does not need a Prop 65 cancer warning for acrylamide."
+  },
+  {
+    "id": "oehha-coffee-isor-2018",
+    "title": "OEHHA Initial Statement of Reasons - Proposed Section 25704 (coffee)",
+    "authority": "California OEHHA (Proposition 65)",
+    "date": "2018-06",
+    "status": "superseded - proposal, replaced by the 2019 final statement",
+    "kind": "pdf",
+    "url": "https://oehha.ca.gov/sites/default/files/media/downloads/crnr/coffeeisor061418.pdf",
+    "why": "CONFLICT/OUTDATED pair with the 2019 FSOR: written while courts were requiring coffee cancer warnings."
+  },
+  {
+    "id": "p65-coffee-faq",
+    "title": "Coffee and Proposition 65: Frequently Asked Questions",
+    "authority": "California OEHHA - P65Warnings.ca.gov",
+    "date": "2019",
+    "status": "current - consumer guidance",
+    "kind": "html",
+    "url": "https://www.p65warnings.ca.gov/fact-sheets/coffee-and-proposition-65-frequently-asked-questions"
+  },
+  {
+    "id": "fda-acrylamide-qa",
+    "title": "FDA - Acrylamide Questions and Answers",
+    "authority": "U.S. FDA",
+    "date": "current web page",
+    "status": "current",
+    "kind": "html",
+    "url": "https://www.fda.gov/food/process-contaminants-food/acrylamide-questions-and-answers"
+  },
+  {
+    "id": "fda-red3-2025",
+    "title": "FDA - FD&C Red No. 3 (revocation of authorization in food)",
+    "authority": "U.S. FDA",
+    "date": "2025-01",
+    "status": "current - authorization revoked; food compliance deadline 2027-01-15",
+    "kind": "html",
+    "url": "https://www.fda.gov/industry/color-additives/fdc-red-no-3",
+    "why": "CONFLICT pair with the codified eCFR listing for Red No. 3, which still describes permitted uses until the compliance date."
+  },
+  {
+    "id": "ecfr-21cfr74-303",
+    "title": "21 CFR 74.303 - FD&C Red No. 3 (codified listing)",
+    "authority": "eCFR (U.S. Code of Federal Regulations)",
+    "date": "latest eCFR issue",
+    "status": "codified text - may lag behind newer FDA actions; check the FDA notice",
+    "kind": "ecfr",
+    "ecfr": {"title": 21, "part": "74", "section": "74.303"}
+  },
+  {
+    "id": "ecfr-21cfr73-575",
+    "title": "21 CFR 73.575 - Titanium dioxide (US color additive listing)",
+    "authority": "eCFR (U.S. Code of Federal Regulations)",
+    "date": "latest eCFR issue",
+    "status": "current in the United States",
+    "kind": "ecfr",
+    "ecfr": {"title": 21, "part": "73", "section": "73.575"},
+    "why": "CONFLICT pair with EU Regulation 2022/63 (US permits, EU removed)."
+  },
+  {
+    "id": "eu-2022-63-tio2",
+    "title": "Commission Regulation (EU) 2022/63 - removal of titanium dioxide (E 171) as a food additive",
+    "authority": "European Commission (EUR-Lex)",
+    "date": "2022-01",
+    "status": "current in the European Union",
+    "kind": "pdf",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0063"
+  },
+  {
+    "id": "fda-bvo",
+    "title": "FDA - Brominated Vegetable Oil (BVO)",
+    "authority": "U.S. FDA",
+    "date": "2024",
+    "status": "current - authorization revoked",
+    "kind": "html",
+    "url": "https://www.fda.gov/food/food-additives-petitions/brominated-vegetable-oil-bvo"
+  },
+  {
+    "id": "ecfr-21cfr172",
+    "title": "21 CFR Part 172 - Food Additives Permitted for Direct Addition to Food for Human Consumption",
+    "authority": "eCFR (U.S. Code of Federal Regulations)",
+    "date": "latest eCFR issue",
+    "status": "current codified text",
+    "kind": "ecfr",
+    "ecfr": {"title": 21, "part": "172"},
+    "why": "Very DENSE regulatory text (hundreds of pages) - the signal-to-noise stress test."
+  }
+]
