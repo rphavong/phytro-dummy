@@ -1,0 +1,657 @@
+--- page 1 ---
+ 
+ 
+INITIAL STATEMENT OF REASONS 
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704  
+EXPOSURES TO LISTED CHEMICALS IN COFFEE 
+POSING NO SIGNIFICANT RISK 
+ 
+ 
+ 
+June 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CALIFORNIA ENVIRONMENTAL PROTECTION AGENCY  
+OFFICE OF ENVIRONMENTAL HEALTH HAZARD ASSESSMENT 
+
+
+--- page 2 ---
+June 2018  Page 2 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+Table of Contents 
+Summary .........................................................................................................................  3 
+Background/Problem to be Addressed by the Proposed Rulemaking ..............................  3 
+Proposed Regulatory Text .............................................................................................  12 
+Purpose ......................................................................................................................... 12 
+N
+ecessity ...................................................................................................................... 12 
+E
+conomic Impact Assessment Required by Gov. Code section 11346.3(b) .................. 13 
+T
+echnical, Theoretical, and/or Empirical Study, Reports, or Documents Relied Upon ... 14 
+B
+enefits of the Proposed Regulation ............................................................................. 14 
+R
+easonable Alternatives to the Regulation and the Agency’s Reasons for Rejecting 
+Those Alternatives ...................................................................................................... 14 
+R
+easonable Alternatives to the Proposed Regulatory Action that Would Lessen Any 
+Adverse Impact on Small Business and the Agency’s Reasons for Rejecting Those 
+Alternatives ................................................................................................................ 14 
+E
+vidence Supporting Finding of No Significant Adverse Economic Impact on Business 15 
+Efforts to Avoid Unnecessary Duplication or Conflicts with Federal Regulations 
+Contained in the Code of Federal Regulations Addressing the Same Issues ............. 15 
+ 
+ 
+  
+
+--- page 3 ---
+June 2018  Page 3 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+Summary 
+The Office of Environmental Health Hazard Assessment (OEHHA) is the lead 
+agency that implements Proposition 651 and has the authority to promulgate and 
+amend regulations to implement and further the purposes of the Act.  OEHHA is 
+proposing to add a new section to Title 27 of the California Code of Regulations2, 
+section 25704, stating that exposures to Proposition 65 listed chemicals in coffee 
+that are produced as part of and inherent in the processes of roasting and 
+brewing coffee pose no significant risk of cancer.  
+No cancer warning would be 
+required for exposures to these chemicals if this proposed regulation is adopted.  
+This regulation does not address exposures to listed chemicals in coffee that 
+may occur if the chemicals are intentionally added to the coffee mixture or enter 
+the mixture as contaminants through a means other than the inherent process of 
+roasting coffee beans or brewing coffee.  
+Background/Problem to be Addressed by the Proposed Rulemaking 
+A. Proposition 65 
+Proposition 65 was a ballot measure that Californians approved in November 
+1986 with 63 percent of the popular vote.  In part, the statute says:  
+“No person in the course of doing business shall knowingly and 
+intentionally expose any individual to a chemical known to the state to 
+cause cancer or reproductive toxicity without first giving a clear and 
+reasonable warning…”3 
+Proposition 65 is a right-to-know law based on the concept that members of the 
+public have a right to know when they are being exposed to listed carcinogens or 
+reproductive toxicants.  An exemption to the warning requirement for carcinogens 
+is provided by the Act when a person in the course of doing business is able to 
+demonstrate that an exposure to a Proposition 65 listed carcinogen poses no 
+significant risk assuming lifetime exposure at the level in question4.  OEHHA may 
+also adopt regulations establishing levels of exposure to listed carcinogens that 
+                                                 
+1 Health and Safety Code Section 25249.5 et seq., The Safe Drinking Water and Toxic Enforcement Act of 
+1986, commonly known as “Proposition 65”.  Hereafter referred to as “Proposition 65” or “the Act”. 
+2 All further references are to sections of Title 27, Cal. Code of Regs., unless indicated otherwise. 
+3 Health and Safety Code, section 25249.6 
+4 Health and Safety Code, section 25249.10(c). 
+
+--- page 4 ---
+June 2018  Page 4 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+are deemed to pose no significant risk to assist in determinations about whether 
+a warning is required for a given exposure.   
+“Coffee,” as referenced in this document and the proposed regulation, refers to a 
+beverage made by percolation, infusion, or decoction5 from the roasted seeds of 
+a coffee plant.  Coffee is a unique and complex chemical mixture that contains 
+numerous chemicals formed during the roasting of coffee beans6,7,8.  Chemicals 
+are also formed during the brewing of coffee9,10,11.  Among the chemicals formed 
+duri
+ng these processes are a number of carcinogens listed under Proposition 65 
+(e.g., acetaldehyde, acrylamide, benz(a)anthracene, benzo(b)fluoranthene, 
+benzo(k)fluoranthene, benzo(a)pyrene, chrysene, dibenz(a,h)anthracene, 
+formaldehyde, furan, furfuryl alcohol, indeno(1,2,3-cd)pyrene, 4-methylimidazole, 
+naphthalene, and pyridine) 12,13,14,15 ,16,17,18 ,19.  Co ffee also contains numerous 
+compounds that either exhibit or are considered to have cancer chemopreventive 
+properties (e.g., free radical scavengers, antioxidants), as discussed below.   
+                                                 
+5 “Decoction” is the process of extracting flavor by boiling. 
+6 Jaiswal R, Matei MF, Golon A, Witt M, Kuhnert N (2012).  Understanding the fate of chlorogenic acids in 
+coffee roasting using mass spectrometry based targeted and non-targeted analytical strategies. Food Funct 
+3:976-984. 
+7 Amanpour A, Selli S (2016). Differentiation of volatile profiles and odor activity values of Turkish coffee and 
+French press coffee. J Food Process Preserv 40:1116-1124. 
+8 International Agency for Research on Cancer (IARC, 2018). IARC Monographs on the Evaluation of 
+Carcinogenic Risks to Humans.  Drinking Coffee, Mate, and Very Hot Beverages, Volume 116,  World 
+Health Organization, Lyon, France.  Available at http://publications.iarc.fr/566.  See page 415. 
+9 Matei, MF, Jaiswal R, Kuhnert N (2012). Investigating the chemical changes of chlorogenic acids during 
+coffee brewing: Conjugate addition of water to the olefinic moiety of chlorogenic acids and their quinides. J 
+Agric Food Chem 60(49):12105-12115. 
+10 Deshpande S, Jaiswal R, Matei MF, Kuhnert N (2014). Investigation of acyl migration in mono-and 
+dicaffeoylquinic acids under aqueous basic, aqueous acidic, and dry roasting conditions. J Agric Food Chem 
+62(37):9160-917 0. 
+11 Swasti YR, Murkovic M (2012). Characterization of the polymerization of furfuryl alcohol during roasting of 
+coffee. Food Funct 3:965-969. 
+12 Yeretzian C, Jordan A, Badoud R, Lindinger W (2002). From the green bean to the cup of coffee: 
+investigating coffee roasting by on-line monitoring of volatiles. Eur Food Res Technol 214(2):92-104. 
+13 
+Jeong HS, Chung H, Song SH, Kim CI, Lee JG, Kim YS (2015). Validation and determination of the 
+contents of acetaldehyde and formaldehyde in foods. Toxicol Res 31(3):273-278. 
+14 Pavesi Arisseto A, Vicente E, Soares Ueno M, Verdiani Tfouni SA, De Figueiredo Toledo MC (2011). 
+Furan levels in coffee as influenced by species, roast degree, and brewing procedures. J Agric Food Chem 
+59(7):3118-3124. 
+15 Jimenez A, Adisa A, Woodham C, Saleh M (2014). Determination of polycyclic aromatic hydrocarbons in 
+roasted coffee. J Environ Sci Health B 49(11):828-835. 
+16 International Agency for Research on Cancer (IARC, 2013). IARC Monographs on the Evaluation of 
+Carcinogenic Risks to Humans. Some Chemicals Present in Industrial and Consumer Products, Food, and 
+Drinking-water. Volume 101. World Health Organization. Lyon, France. 
+17 Bertuzzi T, Rastelli S, Mulazzi A, Pietri A (2017). Survey on acrylamide in roasted coffee and barley and in 
+potato crisps sold in Italy by a LC-MS/MS method. Food Addit Contam Part B Surveill 10(4):292-299. 
+18 Amanpour and Selli (2016), full citation provided in footnote 7.  
+19 IARC (2018), full citation provided in footnote 8.  See pages 65-67. 
+
+--- page 5 ---
+June 2018  Page 5 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+Warnings related to acrylamide in coffee have been the subject of private-party 
+Proposition 65 enforcement actions since 2010.  In a recent trial court ruling in 
+the case, Council for Education and Research on Toxics (CERT) v Starbucks, et 
+al.20, the trial court found the defendants had failed to provide evidence 
+supporting their argument for an alternative risk level for acrylamide in coffee. 
+The effect of this ruling is that exposures to acrylamide in coffee may require 
+Proposition 65 warnings.  OEHHA understands that this proposed regulation, if 
+adopted, may cause businesses to ask courts to modify consent judgments or to 
+seek reconsideration of court rulings and may result in businesses that are 
+voluntarily providing warnings to choose not to do so.  
+B. IARC’s findings on coffee  
+On June 13, 2018, the International Agency for Research on Cancer (IARC), a 
+Proposition 65 authoritative body, released Volume 116 of the IARC Monographs 
+on the Evaluation of Carcinogenic Risks to Humans: Drinking Coffee, Mate, and 
+Very Hot Beverages21.  After reviewing more than 1000 studies of coffee and 
+cancer, IARC concluded that there was inadequate evidence for the 
+carcinogenicity of drinking coffee, and placed coffee in Group 3: “Not classifiable 
+as to its carcinogenicity to humans”22,23.  At the same time, IARC concluded that 
+drinking coffee is 
+inversely associated with cancers of the liver and uterine 
+endometrium (i.e., risk is reduced)24.  In addition, IARC found moderate evidence 
+of an inverse association (risk reduction) between coffee drinking and colorectal 
+adenoma25, a precursor lesion for most colorectal cancer
+s26, and also reported 
+that studies either showed no association or a statistically significant inverse  
+association for coffee intake and breast cancer27.  IARC also found that there is 
+evidence suggesting lack of carcinogenicity for cancers of the pancreas and 
+prostate28, noting that “studies conducted worldwide consistently indicated no 
+                                                 
+20 CERT v Starbucks et al., Los Angeles County Superior Court case #BC435759 
+21 IARC (2018), full citation provided in footnote 8.  
+22 IARC (2018), full citation provided in footnote 8.  See page 425. 
+23Loomis D, Guyton KZ, Grosse Y, Lauby-Secretan B, El Ghissassi F, Bouvard V, Benbrahim-Tallaa L, 
+Guha N, Mattock H, Straif K, on behalf of the International Agency for Research on Cancer Monograph 
+Working Group (2016). Carcinogenicity of drinking coffee, mate, and very hot beverages. Lancet Oncol 
+17:877-878. Available at: http://www.thelancet.com/pdfs/journals/lanonc/PIIS1470-2045(16)30239-X.pdf 
+International Agency for Research on Cancer (IARC, 2018).  
+Agents Classified by the IARC Monographs, Volumes 1–121. World Health Organization. Lyon, France. 
+Available at URL: http://monographs.iarc.fr/ENG/Classification/latest_classif.php 
+24 IARC (2018), full citation provided in footnote 8.  See page 425. 
+25 IARC (2018), full citation provided in footnote 8.  See page 424. 
+26 Budhathoki S, Iwasaki M, Yamaji T, Sasazuki S, Tsugane S (2015). Coffee intake and the risk of 
+colorectal adenoma: The colorectal adenoma study in Tokyo. Int J Cancer. 137(2):463-70. 
+27 IARC (20
+18), full citation provided in footnote 8.  See page 417. 
+28 IARC (2018), full citation provided in footnote 8.  See page 425. 
+
+--- page 6 ---
+June 2018  Page 6 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+increased risk of prostate cancer associated with coffee drinking, with inverse or 
+null associations observed in all studies”29.  IARC concluded there was 
+inadequate evidence of an association between coffee drinking and other types 
+of cancers30.  IARC also found strong evidence in humans that coffee has 
+antioxidant effects31, effects that are related to reductions in cancer risk.  
+IARC’s findings on coffee were based on its review of more than 1000 studies in 
+humans, animals, in vitro and other experimental systems.  The evaluation 
+included numerous well-conducted prospective cohort and population-based 
+case-control studies.  IARC also evaluated several long-term studies of the 
+carcinogenicity of coffee in rats and mice, and concluded that these studies 
+provided inadequate evidence for the carcinogenicity of coffee32.   
+C. Implications of IARC’s findings that coffee reduces the risk of certain 
+cancers 
+IARC’s findings described above, when applied to American Cancer Society 
+statistics for California, show that coffee reduces or probably reduces the risk of 
+human cancers that account for 40 percent of cancer diagnoses in women (liver, 
+endometrium, breast) and about 4 percent of cancer diagnoses in men (liver)33.  
+Evidence also showed lack of carcinogenicity for cancers that account for 25 
+percent of the cancer diagnoses in men (prostate, pancreas), and 3 percent in 
+women (pancreas).  In total, there is moderate or strong evidence that coffee 
+either reduces risk or does not affect risk of cancers that account for 43 percent 
+of cancers diagnosed in women and 29 percent of cancers diagnosed in men in 
+California.  There was also moderate evidence that coffee drinking reduced the 
+risk of colorectal adenoma, a precursor lesion for a cancer that accounts for 6 
+percent of cancer diagnoses.  
+Consistent results are found when US National 
+Cancer Institute statistics for cancer diagnoses34 are used.  Coffee drinking was 
+not found to increase or probably increase any types of cancer in men or 
+women35.   
+                                                 
+29 IARC (2018), full citation provided in footnote 8.  See page 418. 
+30 IARC (2018), full citation provided in footnote 8.  See pages 33, 415 - 420. 
+31 IARC (2018), full citation provided in footnote 8.  See pages 33, 422. 
+32 IARC (2018), full citation provided in footnote 8.  See page 425. 
+33 American Cancer Society’s 2017 document California Cancer Facts and Figures, Revised June 2017, 
+Table 3, Observed new cancer cases and deaths, 2014. 
+34 Estimated new cases in 2018 from the National Cancer Institute’s SEER Cancer Statistics Review 1975-
+2015, Table 1.1: Estimated New Cancer Cases and Deaths for 2018, All Races, by Sex, available at 
+https://seer.cancer.gov/csr/1975_2015/results_single/sect_01_table.01.pdf.   
+35 IARC (2018), full citation provided in footnote 8.  See page 425. 
+
+--- page 7 ---
+June 2018  Page 7 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+In epidemiological studies published since IARC completed its literature search in 
+2016, coffee consumption has consistently been found to be protective for 
+colorectal cancer risk.  Of 4 meta-analyses36, 37,38,39, 2
+  prospective cohort 
+studies40
+, 41 an d 5 case-control studies42,43,44,45,46 conducted in multiple countries 
+with various methods, almost all found significant inverse associations of coffee 
+consumption and colorectal cancer.  The exceptions were one meta-analysis47 
+that found no association with coffee consumption and colorectal cancer, and 
+one cohort study that found an increase in colorectal cancer48.  
+D. Coffe
+e is a complex mixture of carcinogens and anticarcinogens 
+ 
+Coffee is a unique and complex chemical mixture of numerous compounds49,50.  
+Coffee
+ contains chemicals that are recognized carcinogens51, as noted above, as 
+well
+ as numerous chemicals with biological activities associated with protective, 
+anti-carcinogenic effects52.    Coffee’s constituents that exhibit cancer 
+chemopreventive properties include: 
+                                                 
+36 Akter S, Kashino I, Mizoue T, et al. (2016). Coffee drinking and colorectal cancer risk: an evaluation based 
+on a systematic review and meta-analysis among the Japanese population. Jpn J Clin Oncol 46(8):781-787. 
+37 Kashino I, Akter S, Mizoue T, et al. (2018). Coffee drinking and colorectal cancer and its subsites: A 
+pooled analysis of 8 cohort studies in Japan. Int J Cancer 143(2):307-316. 
+38 Wang A, Wang S, Zhu C, Huang H, Wu L, Wan X, Yang X, Zhang H, Miao R, He L, Sang X, Zhao H 
+(2016). Coffee and cancer risk: A meta-analysis of prospective observational studies. Sci Rep 6:33711. 
+39 Vieira AR, Abar L, Chan DSM, Vingeliene S, Polemiti E, Stevens C, Greenwood D, Norat T (2017). Foods 
+and beverages and colorectal cancer risk: a systematic review and meta-analysis of cohort studies, an 
+update of the evidence of the WCRF-AICR Continuous Update Project. Ann Oncol 28(8):1788-1802. 
+40 Nakamura T, Ishikawa H, Mutoh M, Wakabayashi K, Kawano A, Sakai T, Matsuura N (2016). Coffee 
+prevents proximal colorectal adenomas in Japanese men: a prospective cohort study. Eur J Cancer Prev 
+25(5):388-394. 
+41 Groessl EJ, Allison MA, Larson JC, Ho SB, Snetslaar LG, Lane DS, Tharp KM, Stefanick ML (2016). 
+Coffee Consumption and the Incidence of Colorectal Cancer in Women. J Cancer Epidemiol 2016:6918431. 
+42 Budhathoki et al. (2015), full citation provided in footnote 26. 
+43 Azzeh FS, Alshammari EM, Alazzeh AY, Jazar AS, Dabbour IR, El-Taani HA, Obeidat AA, Katan FA, 
+Tashtoush SH(2017). Healthy dietary patterns decrease the risk of colorectal cancer in the Mecca Region, 
+Saudi Arabia: a case-control study. BMC Public Health 17(1):607. 
+44 Schmit SL, Rennert HS, Rennert G, Gruber SB (2016). Coffee Consumption and the Risk of Colorectal 
+Cancer. Cancer Epidemiol Biomarkers Prev 25(4):634-639. 
+45 Naka
+gawa-Senda H, Ito H, Hosono S, Oze I, Tanaka H, Matsuo K (2017). Coffee consumption and the 
+risk of colorectal cancer by anatomical subsite in Japan: Results from the HERPACC studies. Int J Cancer 
+141(2):298-308. 
+46 Ronco AL, De Stefani E, Lasalvia-Galante E, Mendoza B, Vazquez A, Sanchez G (2017). Hot infusions 
+and risk of colorectal cancer in Uruguay: a case-control study. Eur J Clin Nutr 71:1429-1436. 
+47 Vieira et al. (2017), full citation provided in footnote 39. 
+48 Groessl et al. (2016), full citation provided in footnote 41. 
+49 Jaiswal et al. (2012) and Amanpour and Selli (2016), full citations provided in footnotes 6 and 7.   
+50 IARC (2018), full citation provided in footnote 8.  See page 415. 
+51 Jimenez et al. (2014), IARC (2013), Bertuzzi et al. (2017), full citations provided in footnotes 15, 16 and 
+17. 
+52 Priftis A, Stagos D, Konstantinopoulos K, Tsitsimpikou C, Spandidos DA, Tsatsakis AM, Tzatzarakis MN, 
+Kouretas D (2015).  Comparson of antioxidant activity between green and roasted coffee beans using 
+molecular methods.  Molecular Medicine Reports 12:7293-7302. 
+
+--- page 8 ---
+June 2018  Page 8 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+ 
+ Antioxidants and free radical scavengers that protect against oxidative 
+stress. Induction of oxidative stress is a key characteristic of 
+carcinogens53,54.  
+ Che
+micals that appear to increase the colon’s ability to move intestinal 
+contents in a reduced amount of time55,56, po tentially reducing colorectal 
+cancer risk57. 
+ Anti-inflammatory chemicals. Chronic inflammation is a key characteristic 
+of carcinogens58. 
+ Soluble and insoluble fiber that can reduce the uptake into the body of 
+certain carcinogens. 
+ 
+Examples of chemicals and constituents in coffee with these properties and how 
+they may lead to reductions in cancers are provided below. 
+Coffee contains considerable amounts of dietary fiber (e.g., 40 mg/cup)59.  
+Dietary fiber in coffee is both soluble and insoluble (e.g., cellulose and 
+hemicellulose, including galactomannan and arabinogalactan polysaccharides).  
+These fibers can tightly bind carcinogens in coffee, as well as in the 
+gastrointestinal system (e.g., heterocyclic amines), thereby reducing their uptake 
+into the body60,61,62.  Coffee contains melanoidins63, which behave similarly to 
+dietary fiber and appear to increase colon motility (the ability of the colon to move 
+intestinal contents) by activating smooth muscle cholinergic receptors64.  In 
+                                                 
+53 Smith MT, Guyton KZ, Gibbons CF, Fritz JM, Portier CJ, Rusyn I, DeMarini DM, Caldwell JC, Kavlock RJ, 
+Lambert PF, Hecht SS, Bucher JR, Stewart BW, Baan RA, Cogliano VJ, Straif K (2016). Key Characteristics 
+of Carcinogens as a Basis for Organizing Data on Mechanisms of Carcinogenesis. Environ Health Perspect 
+124(6):713-21.  
+54 IARC (2018), full citation provided in footnote 8.  See page 422. 
+55 Rao SSC, Welcher K, Zimmerman B, Stumbo P (1998).  Is coffee a colonic stimulant? Euro J 
+Gastroenterol Hepatol 10:113-118. 
+56 Brown SR, Cann PA, Read NW (1990).  Effect of coffee on distal colon function.  Gut 31:450-453. 
+57 Je Y, Liu W, Giovannucci E (2009).  Coffee consumption and risk of colorectal cancer:  A systematic 
+review and meta-analysis of prospective cohort studies.  Int J Cancer 124:1662-1668. 
+58 Smith et al. (2016), full citation provided in footnote 53. 
+59 Kato T, Takahashi S, Kikugawa K (1991).  Loss of heterocyclic amine mutagens by insoluble 
+hemicellulose fiber and high-molecular-weight soluble polyphenolics of coffee. Mutat Res 246:169-178. 
+60 Ludwig IA, Clifford MN, Lean MEJ, Ashihara H, Crozier A (2014). Coffee: biochemistry and potential 
+impact on health. Food Funct 5:1695-1717. 
+61 Kato et al. (1991), full citation provided in footnote 59. 
+62 Gaascht F, Dicato M, Diederich M (2015). Coffee provides a natural multitarget pharmacopeia against the 
+hallmarks of cancer.  Genes Nutr 10(6):51. DOI 10.1007/s12263-015-0501-3. 
+63 nitrogen-containing products of the Maillard reaction 
+64 Ludwig et al. (2014), full citation provided in footnote 60. 
+
+--- page 9 ---
+June 2018  Page 9 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+addition, melanoidins have antioxidant activities, and can protect against 
+oxidative stress in the gastrointestinal tract65,66.   
+ 
+Coffee also contains numerous phenolic and polyphenolic compounds that can 
+scavenge free radicals and protect against oxidative stress in the gastrointestinal 
+tract, including chlorogenic acids67,68.  Chronic oxidative stress results in an 
+overabundance of reactive oxygen and/or nitrogen species and these can lead to 
+mutations and may play key roles in many of the processes necessary for the 
+conversion of normal cells to cancer cells69.  
+Coffee is considered to be the major 
+dietary source of the antioxidant chlorogenic acids, with estimated daily intake 
+from coffee ranging from 0.5 to 2.0 g70,71.  Chlorogenic acids are hydrolyzed in 
+the gastrointestinal tract to release phenolic acids (e.g., ferulic acid)72.  Uptake of 
+a number of these phenolic chlorogenic acid-derived substances into the 
+bloodstream following the consumption of coffee has been demonstrated in 
+humans73,74,75.  Other antioxidant constituents of coffee include vitamin E 
+(α-tocopherol) and related tocopherol compounds76,77.  Other coffee substances  
+may indirectly increase cellular antioxidant defenses through effects on gene 
+expression or other mechanisms (e.g., trigonelline, N-methyl pyridinium, cafestol, 
+and kahweol) 78,79,80.  Coffee itself has been shown to have high levels of 
+antioxidant activity.  For example, Priftis et al
+. (2015)81 tested extracts from 
+                                                 
+65 Ibid. 
+66 Gaascht et al. (2015), full citation provided in footnote 62. 
+67 Ludwig et al. (2014), full citation provided in footnote 60. 
+68 Gaascht et al. (2015), full citation provided in footnote 62. 
+69 Smith et al. (2016), full citation provided in footnote 53. 
+70 Kempf K, Herder C, Erlund I, Kolb H, Martin S, Carstensen M, Koenig W, Sundvall J, Bidel S, Kuha S, 
+Tuomilehto J  (2010).  Effects of coffee consumption on subclinical inflammation and other risk factors for 
+type 2 diabetes: a clinical trial. Am J Clin Nutr 91:950-957. 
+71 Ludwig et al. (2014), full citation provided in footnote 60. 
+72 Ibid. 
+73 Ibid. 
+74 Kempf et al. (2010), full citation provided in footnote 70. 
+75 Agudelo-Ochoa GM, Pulgarín-Zapata IC, Velásquez-Rodriguez CM, Duque-Ramírez M, Naranjo-Cano M, 
+Quintero-Ortiz MM, Lara-Guzmán OJ, Muñoz-Durango K (2016). Coffee consumption increases the 
+antioxidant capacity of plasma and has no effect on the lipid profile or vascular function in healthy adults in a 
+randomized controlled trial. J Nutr 146:524-531. 
+76 Ludwig et al. (2014), full citation provided in footnote 60. 
+77 Alves RC, Casal S, Oliveira MBPP (2010). Tocopherols in coffee brews: Influence of coffee species, roast 
+degree and brewing procedure. J Food Compost Anal 23:802-808. 
+78 Corrêa TA, Monteiro MP, Mendes TM, Oliveira DM, Roge
+ ro MM, Benites CI, Vinagre CG, Mioto BM, 
+Tarasoutchi D, Tuda VL, César LA, Torres EA (2012). Medium light and medium roast paper-filtered coffee 
+increased antioxidant capacity in healthy volunteers: results of a randomized trial. Plant Foods Hum Nutr 
+67:277-282. 
+79 Ludwig et al. (2014), full citation provided in footnote 60. 
+80 Gaascht et al. (2015), full citation provided in footnote 62. 
+81 Priftis et al. (2015), full citation provided in footnote 52. 
+
+--- page 10 ---
+June 2018  Page 10 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+roasted coffee beans, and reported that they exhibited radical scavenging 
+activity, and protected against free radical-induced DNA damage.   
+ 
+Effects of coffee consumption on various antioxidant and anti-inflammatory 
+markers in humans have been studied.  For example, IL-18, a marker of 
+inflammation, and 8-isoprotaine, a marker of oxidative stress, were both reduced 
+in a clinical intervention trial following a period of moderately high coffee 
+consumption compared to levels in the same subjects with no coffee 
+consumption for a month82.  In a randomized intervention trial medium light roast  
+and medium roast coffee both significantly increased plasma “total antioxidant 
+capacity” compared to no coffee consumption83.  A significant increase in levels 
+of erythrocyte antioxidant enzyme activities (i.e., superoxide dismutase, 
+glutathione peroxidase, catalase) was also observed84.  In another randomized 
+control trial a significant increase in plasma antioxidant capacity was also 
+observed with coffee drinking85.   
+ 
+In contrast with the reductions of certain cancers and lack of findings of 
+increased cancers with coffee, there are a number of other complex mixtures of 
+carcinogens that are classified by IARC as carcinogenic to humans (Group 1), 
+based on sufficient evidence of carcinogenicity from studies in humans, 
+including:  
+ Tobacco smoke  
+ Second hand [environmental] tobacco smoke (ETS)  
+ Diesel engine exhaust  
+ Alcoholic beverages   
+ 
+Tobacco smoke induces human cancer at 19 sites in the human body; alcoholic 
+beverages induce cancer at seven sites in humans.   
+ 
+Like coffee, each of these complex chemical mixtures contains a mix of 
+carcinogenic constituents.  Many of these complex mixtures contain some of the 
+same carcinogenic constituents that are present in coffee.  For example, 
+acrylamide is present in coffee, tobacco smoke, and ETS, and benzo[a]pyrene is 
+present in coffee, tobacco smoke, ETS, and diesel engine exhaust.   
+Some carcinogenic complex mixtures also contain constituents that have cancer 
+chemopreventive properties. 
+ For example, a variety of polyphenols and other 
+                                                 
+82 Kempf et al. (2010), full citation provided in footnote 70. 
+83 Corrêa et al. (2012), full citation provided in footnote 78. 
+84 Ibid. 
+85 Agudelo-Ochoa et al. (2016), full citation provided in footnote 75. 
+
+--- page 11 ---
+June 2018  Page 11 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+phenolic compounds with radical scavenger and antioxidant activities are present 
+in some alcoholic beverages.   
+ 
+However, coffee is different from the above complex mixtures: It is associated 
+with
+ reduced risk of some cancers, has not been found to increase the risk of any 
+cancers86, is particularly rich in chemicals that exhibit or are considered to have 
+anticarcinogenic properties87,88,89,90, and there is evidence in humans for 
+beneficial effects of coffee itself related to chemoprevention91,92,93,94.  IARC found 
+“there is strong evidence that coffee drinking induces antioxidant effects” in 
+humans, including in randomised controlled trials, and that coffee has been 
+associated with beneficial effects on liver cirrhosis, an important risk factor for 
+liver cancer95.  Examples of the mechanisms by which anticarcinogens in coffee 
+may operate are outlined above. 
+Ultimately, it has not been established why the complex mix of carcinogens and 
+anticarcinogenic substances in coffee appear to have such a different impact on 
+human cancer risks than the other complex mixtures that IARC has identified as 
+carcinogenic to humans.  However, the abundant data on coffee show that the 
+carcinogens in this particular mixture should be viewed differently.  Through 
+extensive research and intense scientific scrutiny, coffee has been shown to 
+reduce the risk of some cancers and has not been shown to increase the risk of 
+any cancer.  In contrast, the other complex mixtures discussed above are shown 
+to cause cancer, in the case of tobacco smoke and alcoholic beverages, at a 
+number of sites. 
+E. Exposure to carcinogens in coffee produced by and inherent in the 
+processes of roasting and brewing coffee does not pose a significant 
+cancer risk.  
+Coffee is unique in that it shows reductions in certain human cancers, has not 
+been shown to increase any cancers, and is particularly rich in cancer 
+chemopreventive compounds.  Coffee is also unusual because it has been the 
+subject of very high scientific interest for many years – IARC reviewed more than 
+                                                 
+86 IARC (2018), full citation provided in footnote 8. See page 425. 
+87 Kato et al. (1991), full citation provided in footnote 59. 
+88 Ludwig et al. (2014), full citation provided in footnote 60. 
+89 Gaascht et al. (2015), full citation provided in footnote 62. 
+90 Kempf et al. (2010), full citation provided in footnote 70. 
+91 IARC (2018), full citation provided in footnote 8. See page 422. 
+92 Kempf et al. (2010), full citation provided in footnote 70. 
+93 Corrêa et al. (2012), full citation provided in footnote 78. 
+94 Agudelo-Ochoa et al. (2016), full citation provided in footnote 75. 
+95 IARC (2018), full citation provided in footnote 8.  See pages 422 and 424. 
+
+--- page 12 ---
+June 2018  Page 12 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+1000 observational and experimental studies investigating the potential 
+carcinogenicity of coffee in humans and animals, and in vitro and other 
+experimental systems.  Considering the reductions of specific cancers resulting 
+from coffee drinking, the rich mix of cancer-preventative agents in brewed coffee, 
+and the lack of evidence showing increases in cancers, OEHHA has determined 
+that exposure to listed carcinogens in coffee that are produced as part of and 
+inherent in the processes of roasting and brewing coffee does not pose a 
+significant cancer risk under Proposition 65. 
+This regulation does not address exposures to listed chemicals in coffee that 
+may occur if the chemicals are intentionally added to the coffee mixture or enter 
+the mixture as contaminants through a means other than the inherent process of 
+roasting coffee beans or brewing coffee.  For example, this regulation would not 
+cover lead that is added to coffee because the brewing machine or coffee 
+roasting equipment contain lead. 
+Proposed Regulatory Text 
+OEHHA is proposing to add the following new section to Title 27, of the California 
+Code of Regulations, Article 7, No Significant Risk Levels:  
+ 
+§ 25704.  Exposures to Listed Chemicals in Coffee Posing No 
+Significant Risk 
+ 
+Exposures to listed chemicals in coffee created by and inherent in the 
+processes of roasting coffee beans or brewing coffee do not pose a 
+significant risk of cancer.  
+  
+NOTE: Authority cited: Section 25249.12, Health and Safety Code. 
+Reference: Sections 25249.6 and 25249.10, Health and Safety Code. 
+Purpose 
+The purpose of the proposed regulation is to state that exposures to Proposition 
+65 listed chemicals in coffee created by and inherent in the processes of roasting 
+coffee beans or brewing coffee pose no significant risk of cancer for purposes of 
+Proposition 65.     
+Necessity 
+ 
+
+--- page 13 ---
+June 2018  Page 13 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+Proposition 65 was enacted to provide the public with information about 
+exposures to chemicals that cause cancer, birth defects, or other reproductive 
+harm.  This proposed regulation is necessary to clarify that chemicals created by 
+and inherent in the processes of roasting coffee beans and brewing coffee do not 
+pose a significant risk of cancer, and therefore Proposition 65 cancer warnings 
+for exposures to those chemicals from drinking coffee would not be required.   
+Economic Impact Assessment Required by Gov. Code section 11346.3(b)  
+In compliance with Government Code section 11346.3, OEHHA has assessed all 
+the elements pursuant to sections 11346.3(b)(1)(A) through (D). 
+ Creation or elimination of jobs within the State of California 
+This regulatory action will not impact the creation or elimination of jobs within the 
+State of California because it does not create additional compliance 
+requirements.  The regulatory action simply clarifies that certain Proposition 65 
+chemicals in coffee pose no significant cancer risk.  
+ Creation of new businesses or elimination of existing businesses within 
+the State of California 
+This regulatory action will not impact the creation of new businesses or the 
+elimination of existing businesses within the State of California because it does 
+not create additional compliance requirements.  It simply clarifies that certain 
+Proposition 65 chemicals in coffee pose no significant cancer risk.  
+ Expansion of businesses currently doing business within the State of 
+California 
+This regulatory action will not impact the expansion of businesses within the 
+State of California because it does not create additional compliance 
+requirements.  It simply clarifies that certain Proposition 65 chemicals in coffee 
+pose no significant cancer risk. 
+ Benefits of the proposed regulation to the health and welfare of 
+California residents, worker safety, and the state’s environment 
+The health and welfare of California residents will benefit from the proposed 
+regulation because it will clarify that listed carcinogens in coffee that are created 
+by and inherent in the processes of roasting coffee beans or brewing coffee pose 
+no significant cancer risk.   
+
+--- page 14 ---
+June 2018  Page 14 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+Technical, Theoretical, and/or Empirical Study, Reports, or Documents 
+Relied Upon  
+ 
+Citations to documents relied on for this proposal are provided in this document.    
+Copies of these documents will be included in the regulatory file for this action, 
+and are available from OEHHA upon request.  No other technical, theoretical or 
+empirical material was relied upon by OEHHA in proposing the adoption of this 
+regulation. 
+Benefits of the Proposed Regulation 
+The proposed regulation will further the goals of the authorizing statute by 
+clarifying that there is no significant cancer risk resulting from exposures
+ to listed 
+carcinogens in coffee that are created by and inherent in the processes of 
+roasting coffee beans or brewing coffee.  The regulation provides guidance to 
+businesses concerning whether they need to provide Proposition 65 warnings for 
+coffee.  This regulation will therefore benefit the health and welfare of California 
+residents by helping to avoid cancer warnings for certain chemicals in coffee that 
+do not pose a significant cancer risk.   
+Reasonable Alternatives to the Regulation and the Agency’s Reasons for 
+Rejecting Those Alternatives 
+The alternative to this regulatory action is to take no action.  This would provide 
+no clarification to businesses and the public that chemicals created by and 
+inherent in the processes of roasting coffee beans and brewing coffee do not 
+pose a signficiant cancer risk.  Businesses in most cases would not consider this 
+critical information in determining whether to provide Proposition 65 warnings for 
+coffee.  No alternative that is less burdensome yet equally as effective in 
+addressing such confusion has been proposed.   
+Reasonable Alternatives to the Proposed Regulatory Action 
+that Would 
+Lessen Any Adverse Impact on Small Business and the Agency’s Reasons 
+for Rejecting Those Alternatives 
+OEHHA has initially determined that no reasonable alternative considered by 
+OEHHA, or that has otherwise been identified and brought to its attention, would 
+be more effective in carrying out the proposed action, or would be as effective 
+and less burdensome to small business, or would be more cost-effective and 
+equally effective in implementing the statutory policy or other provision of law to 
+small business.  In addition, OEHHA has determined that the proposed 
+
+--- page 15 ---
+June 2018  Page 15 
+INITIAL STATEMENT OF REASONS               
+TITLE 27, CALIFORNIA CODE OF REGULATIONS 
+ADOPTION OF NEW SECTION 25704 
+regulatory action will not impose any mandatory requirements on small 
+businesses.  Proposition 65 expressly exempts businesses with less than 10 
+employees96 from the requirements of the Act.   
+Evidence Supporting Finding of No Significant Adverse Economic Impact 
+on Business 
+The proposed regulation will not have any adverse economic impact on 
+businesses because it simply clarifies that certain Proposition 65 chemicals in 
+coffee pose no significant risk pose no significant risk of cancer. 
+Efforts to Avoid Unnecessary Duplication or Conflicts with Federal 
+Regulations Contained in the Code of Federal Regulations Addressing the 
+Same Issues 
+Proposition 65 is a California law that has no federal counterpart.  OEHHA has 
+determined that the proposed regulations do not duplicate and will not conflict 
+with federal regulations.  
+                                                 
+96 Health and Safety Code section 25249.11(b). 
